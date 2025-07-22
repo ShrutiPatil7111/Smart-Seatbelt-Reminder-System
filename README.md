@@ -25,17 +25,17 @@ It detects seat occupancy and whether a seatbelt is fastened and gives a visual 
 ---
 
 ## 📷 Simulation
-![Circuit](tinkercad_circuit.png)
+![Circuit](images/tinkercad_circuit.png)
 
 ---
 
 ## 💻 Code
-See [`code/seatbelt_reminder.ino`](seatbelt_reminder.ino) for the Arduino sketch.
+See [`code/seatbelt_reminder.ino`](code/seatbelt_reminder.ino) for the Arduino sketch.
 
 ---
 
 ## 🧾 Report
-See [`report/Smart_Seatbelt_Reminder_System_Report.pdf`](Smart_Seatbelt_Reminder_System_Report.pdf) for the detailed documentation.
+See [`report/Smart_Seatbelt_Reminder_System_Report.pdf`](report/Smart_Seatbelt_Reminder_System_Report.pdf) for the detailed documentation.
 
 ---
 
