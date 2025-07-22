@@ -48,5 +48,4 @@ It helped me understand:
 
 ---
 
-*Created during my KPIT NOVA Training journey. The performance assessment was ongoing at the time of submission. Regardless of the outcome, I’m sharing it here to document my learning and growth.
-*
+*Created during my KPIT NOVA Training journey. The performance assessment was ongoing at the time of submission. Regardless of the outcome, I’m sharing it here to document my learning and growth.*
